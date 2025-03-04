@@ -2,7 +2,7 @@
 
 Authors: Eric Rodriguez, Aryeh Freud, Anthony Suvorov, Henry Garkanian
 
-Link to presentation video: https://drive.google.com/file/d/1Vz66wgQyByiremiFUdZ3iS4vFG5jIWrB/view?usp=sharing
+Link to presentation video: [https://drive.google.com/file/d/1Vz66wgQyByiremiFUdZ3iS4vFG5jIWrB/view?usp=sharing](https://drive.google.com/file/d/1sI3JQcCW_8_0L48bgPPDnueeDo8tsea7/view?usp=sharing)
 
 #Introduction
 - Why was the project undertaken?
